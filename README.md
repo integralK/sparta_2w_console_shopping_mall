@@ -192,4 +192,4 @@
 
 ## 구현 결과
 
-![구현 결과](./asset/result.jpg)
+![](./asset/result.jpg)
